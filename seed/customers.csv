@@ -1,0 +1,4 @@
+name,email,password
+cust a,cust_a@mail.com,pass.a
+cust b,cust_b@mail.com,pass.b
+cust c,cust_c@mail.com,pass.c
